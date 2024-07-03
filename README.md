@@ -19,17 +19,14 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
-### 🌱 Currently Learning
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
+
+
+
+### 🌱 Currently Learning
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 
-### 📊 GitHub Stats
-![Muthuraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-### 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ### 🚀 Projects
 - [Project Name](https://github.com/yourusername/project-repo) - Brief description of the project.
