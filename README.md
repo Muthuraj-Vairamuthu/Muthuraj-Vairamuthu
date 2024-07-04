@@ -1,6 +1,4 @@
 
-![Profile Banner](path/to/your/banner.jpg)
-
 ## Hi there, I'm Muthuraj Vairamuthu 👋
 
 ### 🧑‍💻 About Me
