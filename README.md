@@ -2,7 +2,7 @@
 ## Hi there, I'm Muthuraj Vairamuthu 👋
 
 ### 🧑‍💻 About Me
-- 🎓 Sophomore Front-end Developer based in Delhi, India
+- 🎓 Sophomore Fullstack Developer based in Delhi, India
 - 💼 Open to freelancing opportunities and exploring new adventures
 - 🚀 Passionate about leveraging my skills to contribute to efficient growth
 
